@@ -1,3 +1,3 @@
-# jenya-application
+# jenkins-application
 
-Sample Spring Boot application for Jenkins ([jenya](https://github.com/alexengrig/jenya)).
+[Spring Boot](https://spring.io/projects/spring-boot) Application with [Jenkinsfile](Jenkinsfile).

@@ -1,10 +1,10 @@
-package dev.alexengrig.sample.jenyaapplication;
+package tech.alexengrig.jenkins.application;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JenyaApplicationTests {
+class JenkinsApplicationTests {
 
     @Test
     void contextLoads() {

@@ -1,13 +1,13 @@
-package dev.alexengrig.sample.jenyaapplication;
+package tech.alexengrig.jenkins.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JenyaApplication {
+public class JenkinsApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(JenyaApplication.class, args);
+        SpringApplication.run(JenkinsApplication.class, args);
     }
 
 }
